@@ -15,6 +15,8 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 ## Proposed Solution
 
+I will to design and make a game for a client who is the owner of a local game shop who loves classic computer games. The game will be about text-based game and is constructed using the software Pychart. It will take 3 weeks to make and will be evaluated according to the criteria.
+
 ## Success Criteria
 
 
