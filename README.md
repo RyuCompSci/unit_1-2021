@@ -19,6 +19,12 @@ I will to design and make a game for a client who is the owner of a local game s
 
 ## Success Criteria
 
+1. The game has to be entirely text-based.
+2. The game must record the time played.
+3. The game must record the player name and score.
+4. The game must contain valid navigation.
+5. The game must show clear description of the rules.
+6. The game must be in English.
 
 # Criteria B: Design
 
