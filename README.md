@@ -30,7 +30,7 @@ I will to design and make a game for a client who is the owner of a local game s
 
 ## System Diagram
 
-System diagram fro the proposed solution
+Figure_1. System diagram fro the proposed solution
 ![](SystemDiagram1.jpg)
 As shown in the diagram, the player only needs keyboard to play this game.
 
