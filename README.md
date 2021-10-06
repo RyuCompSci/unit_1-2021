@@ -37,8 +37,8 @@ As shown in the diagram, the player only needs keyboard to play this game.
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|    1    | Create system  |                 |               |                        |           |
-|         | diagram        |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+| Task No | Planned Action                                                 | Planned Outcome                                                                    | Time Estimate |   |
+|---------|----------------------------------------------------------------|------------------------------------------------------------------------------------|---------------|---|
+| 1       | Create system dia gram                                         | To have a clear idea of the hardware and software requirements for the proposition |               |   |
+| 2       | Create a encryption function for the user data                 | A function tested that uses the caesar cypher                                      |               |   |
+| 3       | Integrate the encryption with the database save/load function  | The database is encrypted and ca be read/write                                     |               |   |
