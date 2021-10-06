@@ -40,8 +40,8 @@ As shown in **Fig. 1**, the proposed solution runs on Python and it is developed
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|   1     | Create system diagram | To have a clear idea of the hardware and software requirements for the proposed solution                 |  10min              |                  Sep 24      |   B |
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+| Task No | Planned Action                                 | Planned Outcome                                                                          | Time estimate | Target completion date | Criterion |
+|---------|------------------------------------------------|------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Create system diagram                          | To have a clear idea of the hardware and software requirements for the proposed solution | 10min         | Sep 24                 | B         |
+| 2       | Create a encryption function for the user data | A function tested that uses the caesar cypher                                            | 20 min        | Oct 6                  | C         |
+|         |                                                |                                                                                          |               |                        |           |
