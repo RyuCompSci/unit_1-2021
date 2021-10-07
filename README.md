@@ -51,3 +51,4 @@ shows the flow diagram for this function.
 | 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution | 10min         | Sep 24                 | B         |
 | 2       | Create a encryption function for the user data                | A function tested that uses the caesar cypher                                            | 20 min        | Oct 6                  | C         |
 | 3       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/write                                          |               |                        | C         |
+| 4       | Create a function for encoding the database                   | a function tested that encodes the database                                              | 40min         | Oct 7                  | C         |
