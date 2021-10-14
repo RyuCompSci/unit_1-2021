@@ -18,7 +18,8 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 Design statement:
 I will to design and make a ———— for a client who is ———. The ——– will about ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
 
-Justify the tools/structure of your solution
+Justification of the software selected:
+
 
 ## Success Criteria
 1. The game has to be entirely text-based.
