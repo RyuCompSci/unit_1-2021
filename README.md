@@ -21,7 +21,7 @@ I will to design and make a game for a client who is the owner of a local game s
 
 ### Justification of the software selected
 
-
+The programming language I selected for the text-based game development is python on Pycharm. 
 
 ## Success Criteria
 
