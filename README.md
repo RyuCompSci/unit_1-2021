@@ -58,6 +58,10 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ![](flow_diagram_print_cards_inascii.png)
 
+### A flow diagram to let the player to collect cards
+
+![](
+
 ## Record of Tasks
 
 | Task No | Planned Action                                                                | Planned Outcome                                                                    | Time Estimate | Target Conpletion Date | Critetion |
