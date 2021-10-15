@@ -54,6 +54,10 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ## Flow Diagrams
 
+### A flow diagram to print cards in ascii illustration
+
+![](Untitled Document (1).png)
+
 ## Record of Tasks
 
 | Task No | Planned Action                                                                | Planned Outcome                                                                    | Time Estimate | Target Conpletion Date | Critetion |
