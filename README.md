@@ -60,7 +60,7 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ### A flow diagram to let the player to collect cards
 
-![](
+![](flow_diagram_player's_turn.png)
 
 ## Record of Tasks
 
