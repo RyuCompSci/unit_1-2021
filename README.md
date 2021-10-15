@@ -27,6 +27,10 @@ The game is going to be developed on a programming editor named Pycharm on windo
 
 The programming language I selected for the text-based game development is python on Pycharm. The reason why I selected python for this game development is because it is easy to find hints on the Internet when I got stuck on a part of coding since python is one of the most popular computer language.
 
+### Game Contents
+
+It is a simple blackjack game. In regular blackjack games, the player is supposed to bet on the game, but for this one, in order to let the player enjoy the pure part of Blackjack. In the game, cards are shown in ascii illustration for the sake of visual usability. For those who are not familiar with Blackjack, as in the success criteria, players can optionally check a brief description of the rules. Also, score, time, and the name of player is stored in another file as requested.
+
 ## Success Criteria
 
 1. The game has to be entirely text-based.
