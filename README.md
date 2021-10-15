@@ -85,3 +85,10 @@ As shown in the diagram, the player only needs keyboard to play this game.
 | 13      | Write description of the rules                                                | Show Blackjack's rules                                                             | 90 min        | Oct 15th               | C         |
 | 14      | Set some quick breaks in the coding                                           | In order to let the player to have time to see the information                     | 20 min        | Oct 15th               | C         |
 | 15      |                                                                               |                                                                                    |               |                        |           |
+
+## Evaluation
+
+### Test plan
+
+1. White box testing (While coding)
+2. 
