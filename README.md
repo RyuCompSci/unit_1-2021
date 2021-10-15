@@ -19,9 +19,13 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 I will to design and make a game for a client who is the owner of a local game shop who loves classic computer games. The game will be about text-based cards game and is constructed using the software Pyton on Pychart. It will take 3 weeks to make and will be evaluated according to the criteria shown below. 
 
+### System
+
+The game is going to be developed on a programming editor named Pycharm on windows10 OS. I chose Pycharm for the software to develop this game because Pycharm is easy to use and pretty intuitive when implementing codings.
+
 ### Justification of the software selected
 
-The programming language I selected for the text-based game development is python on Pycharm. 
+The programming language I selected for the text-based game development is python on Pycharm. The reason why I selected python for this game development is because it is easy to find hints on the Internet when I got stuck on a part of coding since python is one of the most popular computer language.
 
 ## Success Criteria
 
