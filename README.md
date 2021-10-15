@@ -56,7 +56,7 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ### A flow diagram to print cards in ascii illustration
 
-![](Untitled Document (1).png)
+![](flow_diagram_print_cards_inascii.png)
 
 ## Record of Tasks
 
