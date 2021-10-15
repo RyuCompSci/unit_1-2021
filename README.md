@@ -64,7 +64,7 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ### A flow diagram to show if the player won or lost
 
-![](
+![](flow_diagram_print_issue_cardgame.png)
 
 ## Record of Tasks
 
