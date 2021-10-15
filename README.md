@@ -13,6 +13,10 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
+### Pre-exsisting product/issue
+
+There are plenty of text-based Blackjack games on the Internet, but ones created on Python were rare. I found it problematic that many of them lacked description and instruction for the game, so that those games' user-friendliness was not satisfactory.
+
 ## Proposed Solution
 
 ### Design Statement
@@ -29,7 +33,7 @@ The programming language I selected for the text-based game development is pytho
 
 ### Game Contents
 
-It is a simple blackjack game. In regular blackjack games, the player is supposed to bet on the game, but for this one, in order to let the player enjoy the pure part of Blackjack. In the game, cards are shown in ascii illustration for the sake of visual usability. For those who are not familiar with Blackjack, as in the success criteria, players can optionally check a brief description of the rules. Also, score, time, and the name of player is stored in another file as requested.
+It is a simple blackjack game. In regular blackjack games, the player is supposed to bet on the game, but for this one, in order to let the player enjoy the pure part of Blackjack. In the game, cards are shown in ascii illustration for the sake of visual usability. For those who are not familiar with Blackjack, as in the success criteria, players can optionally check a brief description of the rules. Also, score, time, and the name of player are stored in a local database in another file as requested.
 
 ## Success Criteria
 
