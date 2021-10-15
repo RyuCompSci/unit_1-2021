@@ -62,6 +62,10 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ![](flow_diagram_player's_turn.png)
 
+### A flow diagram to show if the player won or lost
+
+![](
+
 ## Record of Tasks
 
 | Task No | Planned Action                                                                | Planned Outcome                                                                    | Time Estimate | Target Conpletion Date | Critetion |
