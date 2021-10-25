@@ -90,8 +90,7 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ### Test plan
 
-1. White box testing (While coding)
-2. 
+
 
 # Criteria C: Coding
 
