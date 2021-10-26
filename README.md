@@ -90,7 +90,12 @@ As shown in the diagram, the player only needs keyboard to play this game.
 
 ### Test plan
 
-
+| Description                                                              | Type                      | Input                                                                                                                                 | Expected Output                                                                                                                                                             |
+|--------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Testing if the player's cards and the dealer's cards are shown properly. | Unit Testing (Function)   | N/A (Auto) (black_jack_2.py)                                                                                                          | ┌────┐ │Q       │ │        │ │        │ │   ♠    │ │        │ │        │ │       Q│x2 └────┘             with a random rank of card             from A to K and random suit |
+| Testing if description of Blackjack is shown when type "y"               | Unit Testing (Function)   | N/A (Auto) (black_jack_2.py)                                                                                                          | Description is shown                                                                                                                                                        |
+| Testing if the game works properly.                                      | Integration (Function)    | 1. Player's name 2. "n" 3. Type "y" until the score reaches 17 (If it goes over 21, repeat 1-3) 4. Type "n" when the score reaches 17 | No bugs and typos                                                                                                                                                           |
+| Review if code is easy for other  programmers to understand              | Code Review (Non-Funtion) | N/A (black_jack_2.py)                                                                                                                 | Simple and clear code                                                                                                                                                       |
 
 # Criteria C: Coding
 
