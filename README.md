@@ -1,7 +1,7 @@
 # Unit 1: A classic game 
 ![](game.gif)
 
-# Criteria A: Planning
+# Criterion A: Planning
 
 ## Problem definition
 
@@ -44,7 +44,7 @@ It is a simple blackjack game. In regular blackjack games, the player is suppose
 5. The game must show clear description of the rules.
 6. The game description and instruction must be in English.
 
-# Criteria B: Design
+# Criterion B: Design
 
 ## System Diagram
 
@@ -100,7 +100,7 @@ As shown in the diagram, the player only needs keyboard to play this game.
 | Comments                                                                 | Code Review (Non-Funtion)  | N/A (black_jack_2.py)                                                                                                                 | Simple and clear comments are shown                                                                                                                                         | -                |
 | Name variables                                                           | Code Review (Non-Function) | N/A (black_jack_2.py)                                                                                                                 | Name of each variable represents the function  and the role of itself                                                                                                       | -                |
 
-# Criteria C: Coding
+# Criterion C: Coding
 
 ```.py
 # importing random module
